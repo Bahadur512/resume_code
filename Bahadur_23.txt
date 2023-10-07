@@ -1,0 +1,417 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" integrity="sha512-5A8nwdMOWrSz20fDsjczgUidUBR8liPYU+WymTZP1lmY9G6Oc7HlZv156XqnsgNUzTyMefFTcsFH/tnJE/+xBg==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+    <div>
+        <div class="container">
+            <div class="left_side">
+                <div class="profileText">
+                    <div class="imgBx">
+                        <img src="image_1.jpg">
+                    </div>
+                    <h2>Bahadur Anuragi<br><span>Front-end Developer</span></h2>
+                </div>
+                <div class="contactInfo">
+                    <h3 class="title">Contact Info</h3>
+                    <ul>
+                        <li>
+                            <span class="icon"><i class="fa fa-phone" aria-hidden="true"></i></span>
+                            <span class="text">+91 942 4302 449</span>
+                        </li>
+                        <li>
+                            <span class="icon"><i class="fa fa-envelope-o" aria-hidden="true"></i></span>
+                            <span class="text">bahaduranuragi81@gmail.com</span>
+                        </li>
+                        <li><
+                            <span class="icon"><i class="fa fa-linkedin-square" aria-hidden="true"></i></span>
+                            <span class="text"><a href="https://www.linkedin.com/in/bahadur-anuragi-54710a252">linkedin.com/in/Bahadur-Anuragi</www></a></span>
+                        </li>
+                        <li>
+                            <span class="icon"><i class="fa fa-map-marker" aria-hidden="true"></i></span>
+                            <span class="text">Dharampur, Chhatarpur, Madhya Pradesh, 471510</span>
+                        </li>
+                    </ul>
+                </div>
+                <div class="contactInfo education">
+                    <h3 class="title">Education</h3>
+                    <ul>
+                        <li>
+                            <h5>2021 - 2025</h5>
+                            <h4>B.Tech - computer Science</h4>
+                            <h4>NRI GROUP OF INSTITUTE</h4>
+                            <h4>Rgpv</h4>
+                        </li>
+                        <li>
+                            <h5>2020 - 2021</h5>
+                            <h4>Heigher Secondry School</h4>
+                            <h4>Mathematics</h4>
+                            <h4>Percentage - 94%</h4>
+                            <h4>School for Exellance No. 1 Chhatarpur MP</h4>
+                        </li>
+                        <li>
+                            <h5>2019 - 2020</h5>
+                            <h4>High School</h4>
+                            <h4>Percentage - 92%</h4>
+                            <h4>School for Exellance No. 1 Chhatarpur MP</h4>
+                        </li>
+                    </ul>
+                </div>
+                <div class="contactInfo language">
+                    <h3 class="title">Language</h3>
+                    <ul>
+                        <li>
+                           <span class="text">English</span>
+                           <span class="percent">
+                                <div style="width: 80%;"></div>
+                           </span> 
+                        </li>
+                        <li>
+                            <span class="text">Hindi</span>
+                            <span class="percent">
+                                <div style="width: 90%;"></div>
+                            </span> 
+                         </li>
+                    </ul>
+                </div>    
+            </div>
+
+            <div class="right_side">
+                <div class="about">
+                    <h2 class="title2">Profile</h2>
+                    <p>
+                        <i>
+                            A self-motivated, hard-working and positive student looking for an 
+                            internship in IT department as an intern to gain intensive experience in the 
+                            information and technology industry. I seek to explore my career options in the IT 
+                            sector with a bachelor's degree in Computer Science and Engineering to build my technical and project 
+                            management skills. I am currently in 3rd year, 5th semester.
+                        </i>    
+                    </p>
+                </div>
+                <div class="about">
+                    <h2 class="title2">Experience</h2>
+                    <div class="box">
+                        <div class="year_company">
+                            <h5>10 May - 10 June 2023</h5>
+                            <h5>Bhart Intern</h5>
+                        </div>
+                        <div class="text">
+                            <h4> Web Development </h4>
+                            <p>Operted with development team to develop Frontend Part. </p>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="about skills">
+                <h2 class="title2">Professional Skills</h2>
+                <div class="box">
+                    <h4>Core Java</h4>
+                    <div class="percent">
+                        <div style="width: 93%;"></div>
+                    </div>
+                </div>
+                <div class="box">
+                    <h4>Python</h4>
+                    <div class="percent">
+                        <div style="width: 80%;"></div>
+                    </div>
+                </div>
+                <div class="box">
+                    <h4>JavaScript</h4>
+                    <div class="percent">
+                        <div style="width: 90%;"></div>
+                    </div>
+                </div>
+                <div class="box">
+                    <h4>css</h4>
+                    <div class="percent">
+                        <div style="width: 95%;"></div>
+                    </div>
+                </div>
+                <div class="box">
+                    <h4>Html</h4>
+                    <div class="percent">
+                        <div style="width: 100%;"></div>
+                    </div>
+                </div>
+                <div class="box">
+                    <h4>Basic AI</h4>
+                    <div class="percent">
+                        <div style="width: 60%;"></div>
+                    </div>
+                </div>
+            </div>
+            <div class="about interest">
+                <h2 class="title2">Interest</h2>
+                <ul>
+                    <li><i class="fa fa-gamepad" aria-hidden="true"></i>play Cricket</li>
+                    <li><i class="fa fa-book" aria-hidden="true"></i>Reading book</li>
+                    <li><i class="fa fa-music" aria-hidden="true"></i>Listening Music</li>
+                    <li><i class="fa fa-film" aria-hidden="true"></i>Watching Movie</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
+
+
+
+
+
+
+import url('https:fonts.googleapis.com/css?family=Poppins:200,300,400,500,600,700,800,900&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins',sans-serif;
+}
+
+body {
+    background: lightblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+.container {
+    position: relative;
+    width: 100%;
+    max-width: 1000px;
+    min-height: 1000px;
+    background: #fff;
+    margin: 50px;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    box-shadow: 0 35px 55px rgba(0,0,0,0.1);
+}
+ .container .left_side {
+    position: relative;
+    background: #003147;
+    padding: 40px;
+}
+
+
+.profileText {
+    position: relative;
+    display: flex;
+     flex-direction: column;
+    align-items: center;
+    padding-bottom: 20px;
+    border-bottom: 1px solid rgba(255,255,255,0.2); 
+}
+
+
+.profileText .imgBx {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    border-radius: 100px;
+    overflow: hidden;
+}
+.profileText .imgBx img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit:cover;
+}
+.profileText h2 {
+    color: #fff;
+    font-size: 1.5em;
+    margin-top: 220px;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 600;
+    line-height: 1.4em;
+}
+
+.profileText h2 span {
+    font-size: 0.7em;
+    font-weight: 300px;
+}
+.contactInfo {
+    padding-top: 40px;
+}
+
+.title {
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+}
+
+.contactInfo ul{
+    position: relative;
+}
+
+.contactInfo ul li {
+    position: relative;
+    list-style: none;
+    margin: 10px 0;
+    cursor: pointer;    
+
+}
+
+.contactInfo ul li .iocn {
+    display: inline-block;
+    width: 30px;
+    font-size: 18px;
+    color: #03a9f4;
+}
+
+.contactInfo ul li span {
+    color: #fff;
+    font-weight: 300;
+
+}
+.contactInfo span a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.contactInfo.education li {
+    margin-bottom: 15px;
+}
+
+.contactInfo.education h5 {
+    color: #03a9f4;
+    font-weight: 500;
+}
+
+.contactInfo.education h4:nth-child(2) {
+    color: #fff;
+    font-weight: 500;
+}
+.contactInfo.education h4 {
+    color: #fff;
+    font-weight: 300;
+}
+
+.contactInfo.language .percent {
+    position: relative;
+    width: 100%;
+    height: 6px;
+    background-color: #081921;
+    display: block;
+    margin-top: 5px;
+}
+
+.contactInfo.language .percent div {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    background: #03a9f4;
+}
+.container .right_side {
+    position: relative;
+    background: #fff;
+    padding: 40px;
+}
+.about {
+    margin-bottom: 50px;
+}
+
+.about:last-child {
+    margin-bottom: 0;
+}
+
+.title2 {
+    color: #003147;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 10px;
+}
+
+p {
+    color: #333;
+}
+
+ .about .box {
+    display: flex;
+    flex-direction: row;
+    margin: 25px 0;
+}
+
+ .about .box .year_company {
+    min-width: 150px;
+}
+
+.about .box .year_company h5 {
+    text-transform: uppercase;
+    color: #848c90;
+    font-weight: 600;
+} 
+
+.about .box .text h4 {
+    text-transform: uppercase;
+    color: #2a7da2;
+    font-size: 16px;
+}
+
+.skills .box {
+    position: relative;
+    width: 100%;
+     display: grid;
+    grid-template-columns: 150px 1fr;
+    justify-content: center;
+    align-items: center; 
+}
+
+ .skills .box h4 {
+    text-transform: uppercase;
+    color: #848c99;
+    font-weight: 500;
+} 
+.skills .box .percent {
+    position: relative;
+    width: 100%;
+    height: 10px;
+    background: #f0f0f0;
+}
+
+.skills .box .percent div {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    background: #03a9f4;
+}
+ .interest ul {
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+
+ }
+
+ .interest ul li {
+    list-style: none;
+    color: #333;
+    font-weight: 500;
+    margin: 10px 0;
+ }
+  .interest ul li .fa {
+    color: #03a9f4;
+    font-size: 18px;
+    width: 20px;
+  }
+
+  @media(max-width: 1000px){
+    .cantainer {
+        margin: 10px;
+        grid-template-columns: repeat(1,1fr);
+    }
+    .interest ul {
+        grid-template-columns: repeat(2,1fr);
+    }
+  }
